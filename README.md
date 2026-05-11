@@ -10,7 +10,7 @@
 |:---------------------------------------------------------------|:------------|:------------|
 | _Professional Communication in English_                        | ENG1011
 | Réseautique 2                                                  | INF1091
-| Introduction à l'administration des systèmes                   | INF1092     | [0️⃣:one:](https://github.com/CollegeBoreal/INF1092-201-E26-01)
+| Introduction à l'administration des systèmes                   | INF1092     | [0️⃣1️⃣](https://github.com/CollegeBoreal/INF1092-201-E26-01)
 | Programmation 2                                                | INF1093     | 
 | Introduction aux bases de données                              | INF1094
 | Appui et service technique                                     | INF1095
