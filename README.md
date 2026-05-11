@@ -2,6 +2,7 @@
 
 [Calendrier Été 2026](https://collegeboreal.ca/wp-content/uploads/2025/02/calendrier-scolaire-ebauche-ete-2026.pdf)
 
+:one:
 
 ## ÉTAPE 2️⃣
 
